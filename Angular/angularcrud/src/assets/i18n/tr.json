@@ -1,0 +1,16 @@
+{
+    "contacts": "Kişiler",
+    "createNewContact": "Yeni Kişi Oluştur",
+    "name": "Ad",
+    "mobileNo": "Telefon Numarası",
+    "email": "E-Posta",
+    "action":"Düzenle",
+    "save": "Kaydet",
+    "noContactFound": "Hiçbir Kişi Bulunamadı",
+    "edit": "Güncelle",
+    "delete": "Sil",
+    "searchByName": "İsim ile ara",
+    "clear":"Temizle",
+    "exportToExcel":"Excel dosyasına aktar"
+  }
+  

@@ -1,0 +1,91 @@
+<div class="language-selector">
+  <div class="custom-select">
+    <select id="language-select" (change)="changeLanguage($event)">
+      <option value="en">{{ getTranslation('English') }}</option>
+      <option value="tr">{{ getTranslation('Turkish') }}</option>     
+    </select>
+  </div>
+</div>
+
+<div class="dark-mode-toggle">
+  <label class="switch">
+    <input type="checkbox" [(ngModel)]="darkMode" (ngModelChange)="updateStyles()">
+    <span class="slider round"></span>
+  </label>
+</div>
+
+<div class="container mt-5">
+  <div class="card">
+    <div class="card-header">
+      <strong>{{ getTranslation('contacts') }}</strong>
+    </div>
+    <div class="card-body">
+      <div class="row">
+        <div class="col-sm-6">
+          <div class="card">
+            <div class="card-header">
+              <strong>{{ getTranslation('createNewContact') }}</strong>
+            </div>
+            <div class="card-body">
+              <form [formGroup]="Employeeformgroup" (ngSubmit)="Onsubmit()">
+                <div class="row">
+                  <div class="col-sm-12 mb-3">
+                    <label><strong>{{ getTranslation('name') }}</strong></label>
+                    <input type="text" formControlName="name" class="form-control" />
+                  </div>
+                  <div class="col-sm-12 mb-3">
+                    <label><strong>{{ getTranslation('mobileNo') }}</strong></label>
+                    <input type="text" formControlName="mobileNo" class="form-control" />
+                  </div>
+                  <div class="col-sm-12 mb-3">
+                    <label><strong>{{ getTranslation('email') }}</strong></label>
+                    <input type="text" formControlName="emailID" class="form-control" />
+                  </div>
+                  <div class="col-sm-12 mb-3">
+                    <button class="btn btn-primary" type="Submit"><strong>{{ getTranslation('save') }}</strong></button>
+                  </div>
+                  <div class="col-sm-12 mb-3">
+                    <button class="btn btn-primary" type="button" (click)="resetEmployeeForm(Employeeformgroup)"><strong>{{ getTranslation('clear') }}</strong></button>
+                  </div>
+                  <div class="col-sm-12 mb-3">
+                  <button class="btn btn-primary" type ="button" (click)="exportToExcel()"><strong>{{ getTranslation('exportToExcel') }}</strong></button>
+                </div>
+                </div>
+              </form>
+            </div>
+          </div>
+        </div>
+
+        <div class="col-sm-6">
+          <input #searchInput type="text" class="form-control mb-3" placeholder="{{ getTranslation('searchByName') }}"
+            (input)="applyFilter(searchInput.value)" />
+
+          <div *ngIf="FilteredEmployeeary.length === 0" class="alert alert-info">
+            <strong>{{ getTranslation('noContactFound') }}</strong>
+          </div>
+          <table class="table" *ngIf="FilteredEmployeeary.length > 0">
+            <thead>
+              <tr>
+                <td><strong>{{ getTranslation('name') }}</strong></td>
+                <td><strong>{{ getTranslation('mobileNo') }}</strong></td>
+                <td><strong>{{ getTranslation('email') }}</strong></td>
+                <td><strong>{{ getTranslation('action') }}</strong></td>
+              </tr>
+            </thead>
+            <tbody>
+              <tr *ngFor="let emp of FilteredEmployeeary">
+                <td>{{ emp.name }}</td>
+                <td>{{ emp.mobileNo }}</td>
+                <td>{{ emp.emailID }}</td>
+                <td>
+                  <button (click)="Fillform(emp)" class="btn btn-link"><strong>{{ getTranslation('edit') }}</strong></button>
+                  <button (click)="DeleteEmp(emp.id)" class="btn btn-link"><strong>{{ getTranslation('delete') }}</strong></button>
+                </td>
+              </tr>
+            </tbody>
+          </table>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>

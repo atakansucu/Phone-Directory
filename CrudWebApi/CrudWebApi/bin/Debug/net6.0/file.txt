@@ -1,0 +1,232 @@
+2023-08-14 16:17:05.2628|INFO|CrudWebApi.Controllers.EmployeeController|Bu da bir bilgi logudur.
+2023-08-14 16:19:56.5042|INFO|CrudWebApi.Controllers.EmployeeController|Kişiler veri tabanından çekildi.
+2023-08-14 16:20:10.7845|INFO|CrudWebApi.Controllers.EmployeeController|Kişiler veri tabanından çekildi.
+2023-08-14 16:21:02.4057|INFO|CrudWebApi.Controllers.EmployeeController|Yeni kişi eklendi.
+2023-08-14 16:22:17.1751|INFO|CrudWebApi.Controllers.EmployeeController|Kişi güncellendi.
+2023-08-14 16:23:23.7474|INFO|CrudWebApi.Controllers.EmployeeController|Kişiler veri tabanından çekildi.
+2023-08-14 16:26:18.0194|INFO|CrudWebApi.Controllers.EmployeeController|Kişiler veri tabanından çekildi.
+2023-08-14 16:26:31.1817|INFO|CrudWebApi.Controllers.EmployeeController|Kişi silindi.
+2023-08-14 16:26:31.1972|INFO|CrudWebApi.Controllers.EmployeeController|Kişiler veri tabanından çekildi.
+2023-08-14 16:48:49.0051|INFO|CrudWebApi.Controllers.EmployeeController|Kişiler veri tabanından çekildi.
+2023-08-14 17:15:39.9812|INFO|CrudWebApi.Controllers.EmployeeController|Kişiler veri tabanından çekildi.
+2023-08-14 17:18:27.6713|INFO|CrudWebApi.Controllers.EmployeeController|Yeni kişi eklendi.
+2023-08-14 17:18:27.6829|INFO|CrudWebApi.Controllers.EmployeeController|Kişiler veri tabanından çekildi.
+2023-08-14 17:19:26.9836|INFO|CrudWebApi.Controllers.EmployeeController|Yeni kişi eklendi.
+2023-08-14 17:19:26.9836|INFO|CrudWebApi.Controllers.EmployeeController|Kişiler veri tabanından çekildi.
+2023-08-14 17:19:48.6633|INFO|CrudWebApi.Controllers.EmployeeController|Kişi silindi.
+2023-08-14 17:19:48.6743|INFO|CrudWebApi.Controllers.EmployeeController|Kişiler veri tabanından çekildi.
+2023-08-14 22:50:33.7534|INFO|CrudWebApi.Controllers.EmployeeController|Kişiler veri tabanından çekildi.
+2023-08-14 22:51:30.3573|INFO|CrudWebApi.Controllers.EmployeeController|Yeni kişi eklendi.
+2023-08-14 22:51:30.3681|INFO|CrudWebApi.Controllers.EmployeeController|Kişiler veri tabanından çekildi.
+2023-08-14 22:52:56.1354|INFO|CrudWebApi.Controllers.EmployeeController|Kişiler veri tabanından çekildi.
+2023-08-14 22:53:39.4485|INFO|CrudWebApi.Controllers.EmployeeController|Kişiler veri tabanından çekildi.
+2023-08-15 00:15:03.8140|INFO|CrudWebApi.Controllers.EmployeeController|Kişiler veri tabanından çekildi.
+2023-08-15 00:16:25.3923|INFO|CrudWebApi.Controllers.EmployeeController|Kişiler veri tabanından çekildi.
+2023-08-15 00:16:45.3375|INFO|CrudWebApi.Controllers.EmployeeController|Kişiler veri tabanından çekildi.
+2023-08-15 00:57:41.8650|INFO|CrudWebApi.Controllers.EmployeeController|Kişiler veri tabanından çekildi.
+2023-08-15 00:57:45.7947|INFO|CrudWebApi.Controllers.EmployeeController|Kişiler veri tabanından çekildi.
+2023-08-15 00:57:55.5677|INFO|CrudWebApi.Controllers.EmployeeController|Kişiler veri tabanından çekildi.
+2023-08-15 00:58:15.2530|INFO|CrudWebApi.Controllers.EmployeeController|Kişiler veri tabanından çekildi.
+2023-08-15 00:58:17.8944|INFO|CrudWebApi.Controllers.EmployeeController|Kişiler veri tabanından çekildi.
+2023-08-15 01:09:45.3674|INFO|CrudWebApi.Controllers.EmployeeController|Kişiler veri tabanından çekildi.
+2023-08-15 01:12:13.5569|INFO|CrudWebApi.Controllers.EmployeeController|Kişiler veri tabanından çekildi.
+2023-08-15 01:15:27.2178|INFO|CrudWebApi.Controllers.EmployeeController|Kişiler veri tabanından çekildi.
+2023-08-15 01:15:33.1731|INFO|CrudWebApi.Controllers.EmployeeController|Kişiler veri tabanından çekildi.
+2023-08-15 01:15:38.1002|INFO|CrudWebApi.Controllers.EmployeeController|Kişiler veri tabanından çekildi.
+2023-08-15 01:15:41.7446|INFO|CrudWebApi.Controllers.EmployeeController|Kişiler veri tabanından çekildi.
+2023-08-15 01:16:12.4995|INFO|CrudWebApi.Controllers.EmployeeController|Kişiler veri tabanından çekildi.
+2023-08-15 01:17:29.6751|INFO|CrudWebApi.Controllers.EmployeeController|Kişiler veri tabanından çekildi.
+2023-08-15 01:19:36.9198|INFO|CrudWebApi.Controllers.EmployeeController|Kişiler veri tabanından çekildi.
+2023-08-15 01:19:37.0994|INFO|CrudWebApi.Controllers.EmployeeController|Kişiler veri tabanından çekildi.
+2023-08-15 01:19:45.4310|INFO|CrudWebApi.Controllers.EmployeeController|Kişiler veri tabanından çekildi.
+2023-08-15 01:19:46.2533|INFO|CrudWebApi.Controllers.EmployeeController|Kişiler veri tabanından çekildi.
+2023-08-15 01:19:46.6584|INFO|CrudWebApi.Controllers.EmployeeController|Kişiler veri tabanından çekildi.
+2023-08-15 01:24:12.0013|INFO|CrudWebApi.Controllers.EmployeeController|Kişiler veri tabanından çekildi.
+2023-08-15 01:27:09.9922|INFO|CrudWebApi.Controllers.EmployeeController|Kişiler veri tabanından çekildi.
+2023-08-15 01:27:10.2786|INFO|CrudWebApi.Controllers.EmployeeController|Kişiler veri tabanından çekildi.
+2023-08-15 01:27:10.5289|INFO|CrudWebApi.Controllers.EmployeeController|Kişiler veri tabanından çekildi.
+2023-08-15 01:28:42.7185|INFO|CrudWebApi.Controllers.EmployeeController|Kişiler veri tabanından çekildi.
+2023-08-15 01:28:44.7325|INFO|CrudWebApi.Controllers.EmployeeController|Kişiler veri tabanından çekildi.
+2023-08-15 01:28:46.0585|INFO|CrudWebApi.Controllers.EmployeeController|Kişiler veri tabanından çekildi.
+2023-08-15 01:28:46.1205|INFO|CrudWebApi.Controllers.EmployeeController|Kişiler veri tabanından çekildi.
+2023-08-15 01:28:47.3504|INFO|CrudWebApi.Controllers.EmployeeController|Kişiler veri tabanından çekildi.
+2023-08-15 01:29:27.5842|INFO|CrudWebApi.Controllers.EmployeeController|Kişiler veri tabanından çekildi.
+2023-08-15 01:31:31.7406|INFO|CrudWebApi.Controllers.EmployeeController|Kişiler veri tabanından çekildi.
+2023-08-15 01:32:32.9666|INFO|CrudWebApi.Controllers.EmployeeController|Kişiler veri tabanından çekildi.
+2023-08-15 01:35:08.8637|INFO|CrudWebApi.Controllers.EmployeeController|Kişiler veri tabanından çekildi.
+2023-08-15 01:36:18.8275|INFO|CrudWebApi.Controllers.EmployeeController|Kişiler veri tabanından çekildi.
+2023-08-15 01:37:03.3819|INFO|CrudWebApi.Controllers.EmployeeController|Kişiler veri tabanından çekildi.
+2023-08-15 01:38:16.5509|INFO|CrudWebApi.Controllers.EmployeeController|Kişiler veri tabanından çekildi.
+2023-08-15 01:38:16.6601|INFO|CrudWebApi.Controllers.EmployeeController|Kişiler veri tabanından çekildi.
+2023-08-15 01:38:58.0444|INFO|CrudWebApi.Controllers.EmployeeController|Kişiler veri tabanından çekildi.
+2023-08-15 01:38:59.8881|INFO|CrudWebApi.Controllers.EmployeeController|Kişiler veri tabanından çekildi.
+2023-08-15 01:39:21.4494|INFO|CrudWebApi.Controllers.EmployeeController|Kişiler veri tabanından çekildi.
+2023-08-15 01:39:24.3103|INFO|CrudWebApi.Controllers.EmployeeController|Kişiler veri tabanından çekildi.
+2023-08-15 18:26:07.9447|INFO|CrudWebApi.Controllers.EmployeeController|Kişiler veri tabanından çekildi.
+2023-08-16 09:34:03.5282|INFO|CrudWebApi.Controllers.EmployeeController|Kişiler veri tabanından çekildi.
+2023-08-16 09:34:59.8235|INFO|CrudWebApi.Controllers.EmployeeController|Kişi güncellendi.
+2023-08-16 09:34:59.9096|INFO|CrudWebApi.Controllers.EmployeeController|Kişiler veri tabanından çekildi.
+2023-08-16 09:35:10.7894|INFO|CrudWebApi.Controllers.EmployeeController|Kişi silindi.
+2023-08-16 09:35:10.8093|INFO|CrudWebApi.Controllers.EmployeeController|Kişiler veri tabanından çekildi.
+2023-08-16 09:45:00.6815|INFO|CrudWebApi.Controllers.EmployeeController|Yeni kişi eklendi.
+2023-08-16 09:45:00.6815|INFO|CrudWebApi.Controllers.EmployeeController|Kişiler veri tabanından çekildi.
+2023-08-16 09:50:26.1498|INFO|CrudWebApi.Controllers.EmployeeController|Yeni kişi eklendi.
+2023-08-16 09:50:26.1498|INFO|CrudWebApi.Controllers.EmployeeController|Kişiler veri tabanından çekildi.
+2023-08-16 09:50:47.5181|INFO|CrudWebApi.Controllers.EmployeeController|Kişi güncellendi.
+2023-08-16 09:50:47.5315|INFO|CrudWebApi.Controllers.EmployeeController|Kişiler veri tabanından çekildi.
+2023-08-16 09:50:54.0507|INFO|CrudWebApi.Controllers.EmployeeController|Kişi silindi.
+2023-08-16 09:50:54.0634|INFO|CrudWebApi.Controllers.EmployeeController|Kişiler veri tabanından çekildi.
+2023-08-16 09:56:55.9294|INFO|CrudWebApi.Controllers.EmployeeController|Yeni kişi eklendi.
+2023-08-16 09:56:55.9417|INFO|CrudWebApi.Controllers.EmployeeController|Kişiler veri tabanından çekildi.
+2023-08-16 09:57:07.8209|INFO|CrudWebApi.Controllers.EmployeeController|Yeni kişi eklendi.
+2023-08-16 09:57:07.8209|INFO|CrudWebApi.Controllers.EmployeeController|Kişiler veri tabanından çekildi.
+2023-08-16 09:57:13.0417|INFO|CrudWebApi.Controllers.EmployeeController|Kişi silindi.
+2023-08-16 09:57:13.0554|INFO|CrudWebApi.Controllers.EmployeeController|Kişiler veri tabanından çekildi.
+2023-08-16 09:57:17.1742|INFO|CrudWebApi.Controllers.EmployeeController|Kişi silindi.
+2023-08-16 09:57:17.1873|INFO|CrudWebApi.Controllers.EmployeeController|Kişiler veri tabanından çekildi.
+2023-08-16 10:16:50.6689|INFO|CrudWebApi.Controllers.EmployeeController|Kişiler veri tabanından çekildi.
+2023-08-16 10:21:07.1524|INFO|CrudWebApi.Controllers.EmployeeController|Kişiler veri tabanından çekildi.
+2023-08-16 10:21:12.2395|INFO|CrudWebApi.Controllers.EmployeeController|Kişiler veri tabanından çekildi.
+2023-08-16 10:21:35.1417|INFO|CrudWebApi.Controllers.EmployeeController|Kişiler veri tabanından çekildi.
+2023-08-16 10:22:14.5659|INFO|CrudWebApi.Controllers.EmployeeController|Yeni kişi eklendi.
+2023-08-16 10:22:14.5769|INFO|CrudWebApi.Controllers.EmployeeController|Kişiler veri tabanından çekildi.
+2023-08-16 10:24:09.0132|INFO|CrudWebApi.Controllers.EmployeeController|Kişi silindi.
+2023-08-16 10:24:09.0439|INFO|CrudWebApi.Controllers.EmployeeController|Kişiler veri tabanından çekildi.
+2023-08-16 10:24:40.4268|INFO|CrudWebApi.Controllers.EmployeeController|Yeni kişi eklendi.
+2023-08-16 10:24:40.4589|INFO|CrudWebApi.Controllers.EmployeeController|Kişiler veri tabanından çekildi.
+2023-08-16 10:35:16.3789|INFO|CrudWebApi.Controllers.EmployeeController|Kişiler veri tabanından çekildi.
+2023-08-16 10:47:02.1927|INFO|CrudWebApi.Controllers.EmployeeController|Kişiler veri tabanından çekildi.
+2023-08-16 10:47:02.6834|INFO|CrudWebApi.Controllers.EmployeeController|Kişiler veri tabanından çekildi.
+2023-08-16 10:49:56.2219|INFO|CrudWebApi.Controllers.EmployeeController|Kişi silindi.
+2023-08-16 10:49:56.2579|INFO|CrudWebApi.Controllers.EmployeeController|Kişiler veri tabanından çekildi.
+2023-08-16 10:50:11.0137|INFO|CrudWebApi.Controllers.EmployeeController|Kişiler veri tabanından çekildi.
+2023-08-16 14:04:15.4953|INFO|CrudWebApi.Controllers.EmployeeController|Kişiler veri tabanından çekildi.
+2023-08-16 14:11:15.8679|INFO|CrudWebApi.Controllers.EmployeeController|Kişiler veri tabanından çekildi.
+2023-08-16 14:11:34.6093|INFO|CrudWebApi.Controllers.EmployeeController|Kişiler veri tabanından çekildi.
+2023-08-16 14:11:35.4141|INFO|CrudWebApi.Controllers.EmployeeController|Kişiler veri tabanından çekildi.
+2023-08-16 14:19:17.5069|INFO|CrudWebApi.Controllers.EmployeeController|Kişiler veri tabanından çekildi.
+2023-08-16 14:26:15.9087|INFO|CrudWebApi.Controllers.EmployeeController|Kişiler veri tabanından çekildi.
+2023-08-16 14:29:30.3204|INFO|CrudWebApi.Controllers.EmployeeController|Kişiler veri tabanından çekildi.
+2023-08-16 14:29:44.2249|INFO|CrudWebApi.Controllers.EmployeeController|Kişiler veri tabanından çekildi.
+2023-08-16 14:29:46.0626|INFO|CrudWebApi.Controllers.EmployeeController|Kişiler veri tabanından çekildi.
+2023-08-16 14:33:40.3334|INFO|CrudWebApi.Controllers.EmployeeController|Kişiler veri tabanından çekildi.
+2023-08-16 14:33:41.0142|INFO|CrudWebApi.Controllers.EmployeeController|Kişiler veri tabanından çekildi.
+2023-08-16 14:35:42.8295|INFO|CrudWebApi.Controllers.EmployeeController|Kişiler veri tabanından çekildi.
+2023-08-16 14:50:19.5346|INFO|CrudWebApi.Controllers.EmployeeController|Kişiler veri tabanından çekildi.
+2023-08-16 14:50:36.2489|INFO|CrudWebApi.Controllers.EmployeeController|Kişiler veri tabanından çekildi.
+2023-08-16 14:50:37.7329|INFO|CrudWebApi.Controllers.EmployeeController|Kişiler veri tabanından çekildi.
+2023-08-16 14:50:40.4915|INFO|CrudWebApi.Controllers.EmployeeController|Yeni kişi eklendi.
+2023-08-16 14:50:40.5052|INFO|CrudWebApi.Controllers.EmployeeController|Kişiler veri tabanından çekildi.
+2023-08-16 14:51:17.7616|INFO|CrudWebApi.Controllers.EmployeeController|Yeni kişi eklendi.
+2023-08-16 14:51:17.8117|INFO|CrudWebApi.Controllers.EmployeeController|Kişiler veri tabanından çekildi.
+2023-08-16 14:51:53.6228|INFO|CrudWebApi.Controllers.EmployeeController|Kişiler veri tabanından çekildi.
+2023-08-16 14:51:53.7181|INFO|CrudWebApi.Controllers.EmployeeController|Kişiler veri tabanından çekildi.
+2023-08-16 14:52:08.2317|INFO|CrudWebApi.Controllers.EmployeeController|Kişiler veri tabanından çekildi.
+2023-08-16 14:52:08.8197|INFO|CrudWebApi.Controllers.EmployeeController|Kişiler veri tabanından çekildi.
+2023-08-16 14:52:10.7353|INFO|CrudWebApi.Controllers.EmployeeController|Kişiler veri tabanından çekildi.
+2023-08-16 14:52:11.6848|INFO|CrudWebApi.Controllers.EmployeeController|Kişi silindi.
+2023-08-16 14:52:11.6986|INFO|CrudWebApi.Controllers.EmployeeController|Kişiler veri tabanından çekildi.
+2023-08-16 14:52:14.2551|INFO|CrudWebApi.Controllers.EmployeeController|Kişi silindi.
+2023-08-16 14:52:14.2691|INFO|CrudWebApi.Controllers.EmployeeController|Kişiler veri tabanından çekildi.
+2023-08-16 14:54:19.1719|INFO|CrudWebApi.Controllers.EmployeeController|Kişiler veri tabanından çekildi.
+2023-08-16 14:54:19.3987|INFO|CrudWebApi.Controllers.EmployeeController|Kişiler veri tabanından çekildi.
+2023-08-16 14:54:19.5843|INFO|CrudWebApi.Controllers.EmployeeController|Kişiler veri tabanından çekildi.
+2023-08-16 14:54:38.5018|INFO|CrudWebApi.Controllers.EmployeeController|Kişiler veri tabanından çekildi.
+2023-08-16 14:54:38.5776|INFO|CrudWebApi.Controllers.EmployeeController|Kişiler veri tabanından çekildi.
+2023-08-16 14:54:39.3005|INFO|CrudWebApi.Controllers.EmployeeController|Kişiler veri tabanından çekildi.
+2023-08-16 14:54:40.7567|INFO|CrudWebApi.Controllers.EmployeeController|Kişiler veri tabanından çekildi.
+2023-08-16 14:55:03.8143|INFO|CrudWebApi.Controllers.EmployeeController|Yeni kişi eklendi.
+2023-08-16 14:55:03.8255|INFO|CrudWebApi.Controllers.EmployeeController|Kişiler veri tabanından çekildi.
+2023-08-16 15:05:02.3733|INFO|CrudWebApi.Controllers.EmployeeController|Kişiler veri tabanından çekildi.
+2023-08-16 15:05:03.7824|INFO|CrudWebApi.Controllers.EmployeeController|Kişiler veri tabanından çekildi.
+2023-08-16 19:48:56.6638|INFO|CrudWebApi.Controllers.EmployeeController|Kişiler veri tabanından çekildi.
+2023-08-16 19:49:43.5499|INFO|CrudWebApi.Controllers.EmployeeController|Yeni kişi eklendi.
+2023-08-16 19:49:43.7601|INFO|CrudWebApi.Controllers.EmployeeController|Kişiler veri tabanından çekildi.
+2023-08-18 12:43:49.0474|INFO|CrudWebApi.Controllers.EmployeeController|Kişiler veri tabanından çekildi.
+2023-08-18 12:54:15.4648|INFO|CrudWebApi.Controllers.EmployeeController|Kişiler veri tabanından çekildi.
+2023-08-18 12:54:21.0822|INFO|CrudWebApi.Controllers.EmployeeController|Kişiler veri tabanından çekildi.
+2023-08-18 12:54:45.2297|INFO|CrudWebApi.Controllers.EmployeeController|Kişiler veri tabanından çekildi.
+2023-08-18 12:55:17.3118|INFO|CrudWebApi.Controllers.EmployeeController|Kişiler veri tabanından çekildi.
+2023-08-18 12:55:46.6231|INFO|CrudWebApi.Controllers.EmployeeController|Kişiler veri tabanından çekildi.
+2023-08-18 12:59:56.8191|INFO|CrudWebApi.Controllers.EmployeeController|Kişiler veri tabanından çekildi.
+2023-08-18 13:00:19.0698|INFO|CrudWebApi.Controllers.EmployeeController|Kişiler veri tabanından çekildi.
+2023-08-18 13:04:01.4975|INFO|CrudWebApi.Controllers.EmployeeController|Kişiler veri tabanından çekildi.
+2023-08-18 13:04:18.3525|INFO|CrudWebApi.Controllers.EmployeeController|Kişiler veri tabanından çekildi.
+2023-08-18 13:04:18.5354|INFO|CrudWebApi.Controllers.EmployeeController|Kişiler veri tabanından çekildi.
+2023-08-18 13:18:27.9559|INFO|CrudWebApi.Controllers.EmployeeController|Kişiler veri tabanından çekildi.
+2023-08-18 13:26:30.6883|INFO|CrudWebApi.Controllers.EmployeeController|Kişiler veri tabanından çekildi.
+2023-08-18 13:34:55.0797|INFO|CrudWebApi.Controllers.EmployeeController|Kişiler veri tabanından çekildi.
+2023-08-18 13:35:13.9741|INFO|CrudWebApi.Controllers.EmployeeController|Kişiler veri tabanından çekildi.
+2023-08-18 13:35:37.2105|INFO|CrudWebApi.Controllers.EmployeeController|Yeni kişi eklendi.
+2023-08-18 13:35:37.2232|INFO|CrudWebApi.Controllers.EmployeeController|Kişiler veri tabanından çekildi.
+2023-08-18 13:46:53.4647|INFO|CrudWebApi.Controllers.EmployeeController|Kişiler veri tabanından çekildi.
+2023-08-18 13:46:58.9863|INFO|CrudWebApi.Controllers.EmployeeController|Kişiler veri tabanından çekildi.
+2023-08-18 13:48:49.4575|INFO|CrudWebApi.Controllers.EmployeeController|Kişiler veri tabanından çekildi.
+2023-08-18 13:48:52.2331|INFO|CrudWebApi.Controllers.EmployeeController|Kişiler veri tabanından çekildi.
+2023-08-18 13:51:32.6360|INFO|CrudWebApi.Controllers.EmployeeController|Kişiler veri tabanından çekildi.
+2023-08-18 13:51:35.0116|INFO|CrudWebApi.Controllers.EmployeeController|Kişiler veri tabanından çekildi.
+2023-08-18 13:53:33.9198|INFO|CrudWebApi.Controllers.EmployeeController|Kişiler veri tabanından çekildi.
+2023-08-18 13:53:39.0192|INFO|CrudWebApi.Controllers.EmployeeController|Kişiler veri tabanından çekildi.
+2023-08-18 13:55:35.2128|INFO|CrudWebApi.Controllers.EmployeeController|Kişiler veri tabanından çekildi.
+2023-08-18 13:55:39.5313|INFO|CrudWebApi.Controllers.EmployeeController|Kişiler veri tabanından çekildi.
+2023-08-18 13:56:07.2755|INFO|CrudWebApi.Controllers.EmployeeController|Kişiler veri tabanından çekildi.
+2023-08-18 13:57:06.1382|INFO|CrudWebApi.Controllers.EmployeeController|Kişiler veri tabanından çekildi.
+2023-08-18 13:57:09.9699|INFO|CrudWebApi.Controllers.EmployeeController|Kişiler veri tabanından çekildi.
+2023-08-18 13:58:34.9754|INFO|CrudWebApi.Controllers.EmployeeController|Kişiler veri tabanından çekildi.
+2023-08-18 13:58:40.4279|INFO|CrudWebApi.Controllers.EmployeeController|Kişiler veri tabanından çekildi.
+2023-08-18 14:00:17.3251|INFO|CrudWebApi.Controllers.EmployeeController|Kişiler veri tabanından çekildi.
+2023-08-18 14:02:30.9591|INFO|CrudWebApi.Controllers.EmployeeController|Kişiler veri tabanından çekildi.
+2023-08-18 14:02:34.6188|INFO|CrudWebApi.Controllers.EmployeeController|Kişiler veri tabanından çekildi.
+2023-08-18 14:05:25.2082|INFO|CrudWebApi.Controllers.EmployeeController|Kişiler veri tabanından çekildi.
+2023-08-18 14:05:28.4245|INFO|CrudWebApi.Controllers.EmployeeController|Kişiler veri tabanından çekildi.
+2023-08-18 14:05:57.1836|INFO|CrudWebApi.Controllers.EmployeeController|Kişiler veri tabanından çekildi.
+2023-08-18 14:15:01.2113|INFO|CrudWebApi.Controllers.EmployeeController|Kişiler veri tabanından çekildi.
+2023-08-18 14:16:10.2830|INFO|CrudWebApi.Controllers.EmployeeController|Kişiler veri tabanından çekildi.
+2023-08-18 15:30:21.5083|INFO|CrudWebApi.Controllers.EmployeeController|Kişiler veri tabanından çekildi.
+2023-08-18 16:28:55.0098|INFO|CrudWebApi.Controllers.EmployeeController|Kişiler veri tabanından çekildi.
+2023-08-18 16:29:27.1585|INFO|CrudWebApi.Controllers.EmployeeController|Kişiler veri tabanından çekildi.
+2023-08-19 16:26:01.0149|INFO|CrudWebApi.Controllers.EmployeeController|Kişiler veri tabanından çekildi.
+2023-08-19 16:26:50.6043|INFO|CrudWebApi.Controllers.EmployeeController|Kişi silindi.
+2023-08-19 16:26:50.6831|INFO|CrudWebApi.Controllers.EmployeeController|Kişiler veri tabanından çekildi.
+2023-08-22 20:44:17.5670|INFO|CrudWebApi.Controllers.EmployeeController|Kişiler veri tabanından çekildi.
+2023-08-22 20:45:19.6001|INFO|CrudWebApi.Controllers.EmployeeController|Kişiler veri tabanından çekildi.
+2023-08-22 21:41:56.9937|INFO|CrudWebApi.Controllers.EmployeeController|Kişiler veri tabanından çekildi.
+2023-08-23 09:48:34.2950|INFO|CrudWebApi.Controllers.EmployeeController|Kişiler veri tabanından çekildi.
+2023-08-23 15:33:07.4384|INFO|CrudWebApi.Controllers.EmployeeController|Kişiler veri tabanından çekildi.
+2023-08-23 16:38:39.3897|INFO|CrudWebApi.Controllers.EmployeeController|Kişiler veri tabanından çekildi.
+2023-08-23 16:38:45.0036|INFO|CrudWebApi.Controllers.EmployeeController|Kişi silindi.
+2023-08-23 16:38:45.0944|INFO|CrudWebApi.Controllers.EmployeeController|Kişiler veri tabanından çekildi.
+2023-08-23 16:38:57.7009|INFO|CrudWebApi.Controllers.EmployeeController|Kişi silindi.
+2023-08-23 16:38:57.7244|INFO|CrudWebApi.Controllers.EmployeeController|Kişiler veri tabanından çekildi.
+2023-08-23 16:39:01.4011|INFO|CrudWebApi.Controllers.EmployeeController|Kişi silindi.
+2023-08-23 16:39:01.4262|INFO|CrudWebApi.Controllers.EmployeeController|Kişiler veri tabanından çekildi.
+2023-08-23 16:39:07.9489|INFO|CrudWebApi.Controllers.EmployeeController|Kişi silindi.
+2023-08-23 16:39:07.9664|INFO|CrudWebApi.Controllers.EmployeeController|Kişiler veri tabanından çekildi.
+2023-08-23 16:39:12.0065|INFO|CrudWebApi.Controllers.EmployeeController|Kişi silindi.
+2023-08-23 16:39:12.0245|INFO|CrudWebApi.Controllers.EmployeeController|Kişiler veri tabanından çekildi.
+2023-08-23 16:39:15.0267|INFO|CrudWebApi.Controllers.EmployeeController|Kişi silindi.
+2023-08-23 16:39:15.0392|INFO|CrudWebApi.Controllers.EmployeeController|Kişiler veri tabanından çekildi.
+2023-08-23 16:39:18.2631|INFO|CrudWebApi.Controllers.EmployeeController|Kişi silindi.
+2023-08-23 16:39:18.2771|INFO|CrudWebApi.Controllers.EmployeeController|Kişiler veri tabanından çekildi.
+2023-08-23 16:39:31.7084|INFO|CrudWebApi.Controllers.EmployeeController|Kişi silindi.
+2023-08-23 16:39:31.7084|INFO|CrudWebApi.Controllers.EmployeeController|Kişiler veri tabanından çekildi.
+2023-08-23 16:39:34.8937|INFO|CrudWebApi.Controllers.EmployeeController|Kişi silindi.
+2023-08-23 16:39:34.8937|INFO|CrudWebApi.Controllers.EmployeeController|Kişiler veri tabanından çekildi.
+2023-08-23 16:40:57.3608|INFO|CrudWebApi.Controllers.EmployeeController|Kişiler veri tabanından çekildi.
+2023-08-23 16:51:40.0097|INFO|CrudWebApi.Controllers.EmployeeController|Yeni kişi eklendi.
+2023-08-23 16:55:28.6419|INFO|CrudWebApi.Controllers.EmployeeController|Kişiler veri tabanından çekildi.
+2023-08-23 17:00:51.9684|INFO|CrudWebApi.Controllers.EmployeeController|Kişiler veri tabanından çekildi.
+2023-08-25 19:12:59.2413|INFO|CrudWebApi.Controllers.EmployeeController|Kişiler veri tabanından çekildi.
+2023-08-25 19:13:25.4104|INFO|CrudWebApi.Controllers.EmployeeController|Kişi güncellendi.
+2023-08-25 19:13:25.6227|INFO|CrudWebApi.Controllers.EmployeeController|Kişiler veri tabanından çekildi.
+2023-08-25 19:13:59.1175|INFO|CrudWebApi.Controllers.EmployeeController|Yeni kişi eklendi.
+2023-08-25 19:13:59.1422|INFO|CrudWebApi.Controllers.EmployeeController|Kişiler veri tabanından çekildi.
+2023-08-25 19:14:28.8599|INFO|CrudWebApi.Controllers.EmployeeController|Yeni kişi eklendi.
+2023-08-25 19:14:28.8850|INFO|CrudWebApi.Controllers.EmployeeController|Kişiler veri tabanından çekildi.
+2023-08-25 19:28:02.0965|INFO|CrudWebApi.Controllers.EmployeeController|Kişi silindi.
+2023-08-25 19:28:02.1515|INFO|CrudWebApi.Controllers.EmployeeController|Kişiler veri tabanından çekildi.
+2023-08-29 12:40:26.4344|INFO|CrudWebApi.Controllers.EmployeeController|Kişiler veri tabanından çekildi.
+2023-08-29 12:46:35.0645|INFO|CrudWebApi.Controllers.EmployeeController|Kişiler veri tabanından çekildi.
+2023-08-29 12:46:51.9466|INFO|CrudWebApi.Controllers.EmployeeController|Kişiler veri tabanından çekildi.
+2023-08-29 12:46:52.2498|INFO|CrudWebApi.Controllers.EmployeeController|Kişiler veri tabanından çekildi.
+2023-08-29 13:01:49.8064|INFO|CrudWebApi.Controllers.EmployeeController|Kişiler veri tabanından çekildi.

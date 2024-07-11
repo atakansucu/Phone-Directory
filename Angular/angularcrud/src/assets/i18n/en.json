@@ -1,0 +1,16 @@
+{
+    "contacts": "Contacts",
+    "createNewContact": "Create New Contact",
+    "name": "Name",
+    "mobileNo": "Mobile No",
+    "email": "E-Mail",
+    "action":"Action",
+    "save": "Save",
+    "noContactFound": "No Contact Found",
+    "edit": "Edit",
+    "delete": "Delete",
+    "searchByName": " Search by Name",
+    "clear":"Clear",
+    "exportToExcel":"Export to Excel"
+  }
+  
